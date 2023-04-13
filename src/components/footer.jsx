@@ -26,9 +26,6 @@ const Footer = () => {
             <a href="https://www.instagram.com/ake__fx" target="blank">
               <FaInstagram className="social-media-icon text-gray-400 mx-2 w-6 h-6" />
             </a>
-            <a href="https://www.youtube.com">
-              <FaYoutube className="social-media-icon text-gray-400 mx-2 w-6 h-6" />
-            </a>
           </div>
 
           <div className="flex items-center">
