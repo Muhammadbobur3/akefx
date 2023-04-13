@@ -17,11 +17,10 @@ const CourseDescription = () => {
             Treyderlar nima ish qiladi?
           </h2>
           <p className="text-gray-300 text-lg leading-7 w-4/5 mb-8">
-            In this version, I changed the bg-white class on the container div
-            element to bg-gray-800 to use a darker background color. I also
-            changed the text color of the heading and description to text-white
-            and the text color of the description to text-gray-400 to provide
-            adequate contrast with the dark background
+            Traderlar xalqaro bozorda valyuta airboshlash, har xil yirik
+            kampaniyalar aksiyalari, qimmatbaho metallar savdosi bilan
+            shug'ullanadi.Bozorda narxni o'rganib arzon narxda sotib olib so'ng
+            qimmatlashgach sotib foyda ko'rishadi.
           </p>
         </div>
       </div>

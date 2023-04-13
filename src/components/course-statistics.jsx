@@ -1,7 +1,7 @@
 const statistics = [
-  { label: "Enrolled Students", value: "10,000+" },
-  { label: "Completed Courses", value: "5,000+" },
-  { label: "Certified Instructors", value: "100+" },
+  { label: "Bitiruvchilar", value: "1,200+" },
+  { label: "Bitiruvchilar stabil foydada", value: "60%-70%" },
+  { label: "Bitiruvchi jamoga qabul qililgan", value: "30+" },
 ];
 
 export const CourseStatistics = (props) => {

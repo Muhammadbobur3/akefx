@@ -29,9 +29,13 @@ const Footer = () => {
 
           <div className="flex items-center">
             <FaMapMarkerAlt className="text-gray-400 mr-2" />
-            <p className="text-gray-400 text-lg">
-              1234 Main Street, Anytown, USA
-            </p>
+            <a
+              href="https://goo.gl/maps/keuaA1nv51KeVUah6"
+              target="blank"
+              className="text-gray-400 text-lg text-center md:text-right"
+            >
+              Toshkent shahar, Chilonzor tumani, Cho'ponota ko'chasi
+            </a>
           </div>
         </div>
       </div>
