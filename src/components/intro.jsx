@@ -36,11 +36,14 @@ export const Intro = () => {
         <div className="md:w-1/2 relative">
           <video
             className="w-[444px] h-[252px] mr-20 border-4 border-[#DFBE77] rounded-2xl aspect-video object-cover ml-auto"
-            src={bgImage}
+            playsinline
+            preload="none"
             autoPlay
             loop
             muted
-          />
+          >
+            <source src={bgImage} type="video/mp4" />
+          </video>
         </div>
       </div>
     </div>

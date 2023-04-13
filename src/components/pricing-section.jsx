@@ -24,15 +24,7 @@ const Pricing = () => {
                 bilan birgalikda bozorni bemalol taxlil qila boshlaysiz!
               </p>
               <div className="mt-6 flex-col flex-grow h-full">
-                <div className="flex items-center">
-                  <h4 className="text-4xl leading-5 font-semibold text-gray-400">
-                    $10 000
-                  </h4>
-                  <p className="ml-1 text-md leading-5 text-gray-400">
-                    /to'liq kurs
-                  </p>
-                </div>
-                <div className="mt-10">
+                <div className="my-10">
                   <ul className="list-reset">
                     <li className="flex items-start">
                       <div className="flex-shrink-0">
@@ -95,15 +87,7 @@ const Pricing = () => {
                 bilan birgalikda bozorni bemalol taxlil qila boshlaysiz!
               </p>
               <div className="mt-6 flex flex-col flex-grow h-full">
-                <div className="flex items-center">
-                  <h4 className="text-4xl leading-5 font-semibold text-gray-400">
-                    $5 000
-                  </h4>
-                  <p className="ml-1 text-md leading-5 text-gray-400">
-                    /to'liq kurs
-                  </p>
-                </div>
-                <div className="mt-10">
+                <div className="my-10">
                   <ul className="list-reset">
                     <li className="flex items-start">
                       <div className="flex-shrink-0">
