@@ -3,7 +3,6 @@ import {
   FaPhone,
   FaMapMarkerAlt,
   FaTelegram,
-  FaYoutube,
   FaInstagram,
 } from "react-icons/fa";
 
