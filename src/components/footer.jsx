@@ -13,8 +13,8 @@ const Footer = () => {
         <div className="flex flex-col sm:flex-row justify-between items-center">
           <div className="flex items-center">
             <FaPhone className="text-gray-400 mr-2" />
-            <a href="tel:+998944077807" className="text-gray-400 text-lg">
-              +998 (94) 407 78 07
+            <a href="tel:+998977202768" className="text-gray-400 text-lg">
+              +998 (97) 720 27 68
             </a>
           </div>
 
